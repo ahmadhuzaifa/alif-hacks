@@ -1,0 +1,29 @@
+.restaurant-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+
+.restaurant-details h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.restaurant-details p {
+    font-size: 18px;
+    color: #666;
+}
+
+.restaurant-details .rating {
+    font-size: 20px;
+    color: #f8a102;
+    margin-top: 10px;
+}
+
+.restaurant-details .address {
+    font-size: 16px;
+    color: #999;
+    margin-top: 5px;
+}
